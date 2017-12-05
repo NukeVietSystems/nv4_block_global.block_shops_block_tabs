@@ -1,0 +1,68 @@
+.panel-nvs-default .heading {
+    background-image: url(//bizweb.dktcdn.net/100/263/499/themes/602329/assets/bg_title_red.png?1508743661987);
+    background-repeat: no-repeat;
+    height: 48px;
+}
+
+.panel-nvs-default .heading h2 {
+    position: relative;
+    margin: 0;
+    padding: 0 70px;
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    background-image: url(//bizweb.dktcdn.net/100/263/499/themes/602329/assets/bg_title_yellow.png?1508743661987);
+    background-repeat: no-repeat;
+    height: 48px;
+    line-height: 48px;
+    margin-left: -15px;
+    text-transform: uppercase;
+}
+
+.panel-nvs-default .heading .nvs-nav  {
+    border-bottom: none;
+    line-height: 48px;
+}
+
+.panel-nvs-default .heading .nvs-nav  li{
+    display: block;
+    float: left;
+	position: relative;
+	color:#fff;
+	padding: 0px 10px;
+}
+.panel-nvs-default .heading .nvs-nav  li a{
+	color:#fff;
+}
+.panel-nvs-default .heading .nvs-nav  li.active a{
+    color:#000;
+}
+
+
+.nvs_info_pro{
+	position: absolute;
+	top: 40px;
+	left: 5px
+}
+.nvs_label-success {
+    background-color: #5cb85c;
+}
+.nvs_newday{
+	display: block;
+	text-transform: uppercase
+}
+.nvs_label-danger {
+    background-color: #d9534f;
+}
+.nvs_money {
+	color: #CC3300;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.nvs_discounts_money {
+	color: #000000;
+	font-weight: normal;
+	text-decoration: line-through;
+	padding: 5px;
+}
